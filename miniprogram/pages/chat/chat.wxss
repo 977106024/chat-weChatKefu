@@ -1,0 +1,8 @@
+/* miniprogram/pages/chat/chat.wxss */
+input{
+  border:1px solid #aaa;
+  margin:10px;
+}
+button{
+  width: 150px;
+}

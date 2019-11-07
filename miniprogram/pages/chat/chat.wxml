@@ -1,0 +1,2 @@
+<!--miniprogram/pages/chat/chat.wxml-->
+<button open-type="contact" bindcontact="handleContact">联系客服</button>
